@@ -75,23 +75,3 @@ else:
 finally:
     print("I will always execute")
 print("bye")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
