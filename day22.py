@@ -129,8 +129,8 @@ print(r)
 def add(*agrs):
     print(agrs)
     total = 0
-    for i in agrs:
-        total = total + i
+    for x in agrs:
+        total = total + x
     return total
 f = add(8,45,6,8,4,1,3,9,447)
 print(f)
